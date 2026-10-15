@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/Input/Actions/IA_Fire.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/Input/IMC_Default.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/FirstPerson/Gameplay/BP_TestActor.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/EF/UHNLI4NU1X1DH8HAB0DXZS.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/Audio/Gun1.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/Particles1/FXS_ImpactBurst.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/Input/Actions/IA_Sprint.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/_Game/Blueprints/Componenets/BP_SprintAbilityComponent.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/_Game/Blueprints/Componenets/BP_StaminaSystemComponent.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/_Game/UI/BP_PlayerHud.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/_Game/UI/crosshair.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/_Game/Blueprints/Componenets/BP_RageSystemComponent.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/_Game/Blueprints/Componenets/BP_BeserkAbilityComponent.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/Input/Actions/IA_Melee.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/Audio/Bite.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/Particles1/FXS_MeleeBurst.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/Input/Actions/IA_Rage.uasset"
+			]
+		}
+	]
+}

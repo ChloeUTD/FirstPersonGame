@@ -26,6 +26,17 @@
 				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/_Game/Maps/MainMenu.umap",
 				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/_Game/UI/WBP_MainMenu.uasset",
 				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/Audio/Music/endlessmotion.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/Audio/Music/elevate.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/Audio/Music/betterdays.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/_Game/Blueprints/Interfaces/BPI_MusicPlayer.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/FirstPerson/Lvl_FirstPerson.umap",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/FirstPerson/Blueprints/BP_FirstPersonGameInstance.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/Audio/Music/betterdays_Cue.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/Audio/Music/elevate_Cue.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/Audio/Music/endlessmotion_Cue.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/Input/Actions/IA_Pause.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/_Game/UI/WBP_PauseMenu.uasset",
 				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/Input/Actions/IA_Rage.uasset"
 			]
 		}

@@ -37,6 +37,20 @@
 				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/Audio/Music/endlessmotion_Cue.uasset",
 				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/Input/Actions/IA_Pause.uasset",
 				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/_Game/UI/WBP_PauseMenu.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/_Game/Blueprints/Componenets/BP_HealthSystemComponent.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/Audio/Damage2.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/Audio/Damage1.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/Audio/Damage2_Cue.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/Audio/Damage1_Cue.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/Audio/Damage3.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/Audio/PlayerDamageCue.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/Particles1/PS_DamageBurst.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/StarterContent/Props/SM_Couch.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/_Game/Blueprints/DamageableCouch.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/GR/OGV5CIR46EY3EMC062LNW9.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/_Game/Blueprints/Gameplay/BP_HealthPickup.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/RR/QJTZ5LBTOBNX3N1VIQ6K6Y.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/V9/6ZOFIDW1BXYKNVNR1UG3NH.uasset",
 				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/FirstPersonGame/Content/Input/Actions/IA_Rage.uasset"
 			]
 		}
